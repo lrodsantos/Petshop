@@ -1,4 +1,4 @@
-package estudo.de.caso.amigofiel;
+package petshop.estudo.de.caso;
 
 class Cachorro extends Animal {
     public Cachorro() {

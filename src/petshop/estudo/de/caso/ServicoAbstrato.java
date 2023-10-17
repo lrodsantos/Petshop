@@ -1,4 +1,4 @@
-package estudo.de.caso.amigofiel;
+package petshop.estudo.de.caso;
 
 abstract class ServicoAbstrato {
     public abstract String descricao();
