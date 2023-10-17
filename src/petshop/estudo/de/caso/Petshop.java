@@ -1,4 +1,4 @@
-package estudo.de.caso.amigofiel;
+package petshop.estudo.de.caso;
 
 import java.util.ArrayList;
 import java.util.Scanner;
