@@ -29,7 +29,7 @@ public class Petshop {
 
             switch (escolha) {
                 case 1:
-                	System.out.println("Escolha o tipo de animal (1 - Cachorro, 2 - Gato) ");
+                	System.out.println("Escolha o tipo de animal (1 - Cachorro, 2 - Gato): ");
                     int escolhaTipoAnimal = scanner.nextInt();
                     scanner.nextLine();
 
