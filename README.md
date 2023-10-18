@@ -1,6 +1,6 @@
 # PetShop
 
-                                                                    ![petshop](https://github.com/lrodsantos/Petshop/assets/125817592/22bb0497-9897-49f6-b180-52031f1ba797)
+![petshop](https://github.com/lrodsantos/Petshop/assets/125817592/22bb0497-9897-49f6-b180-52031f1ba797)
 
 
 ## Descrição
