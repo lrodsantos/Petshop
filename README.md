@@ -20,3 +20,9 @@ Este projeto tem como objetivo demonstrar um sistema básico de gerenciamento de
 
 - Java 17
 - IDE Eclipse
+
+## Observação
+
+Para executar este sistema, execute o arquivo main.
+
+![image](https://github.com/lrodsantos/Petshop/assets/125817592/ab7298cd-f5b8-4112-a3c3-c7b9c3e5422f)
