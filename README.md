@@ -19,5 +19,4 @@ Este projeto tem como objetivo demonstrar um sistema básico de gerenciamento de
 ## Requisitos
 
 - Java 17
-- Windows 11
 - IDE Eclipse
