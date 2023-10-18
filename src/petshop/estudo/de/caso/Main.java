@@ -3,7 +3,7 @@ package petshop.estudo.de.caso;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Petshop {
+public class Main {
     
 
 	public static void main(String[] args) {
