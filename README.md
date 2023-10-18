@@ -10,8 +10,8 @@ Este projeto tem como objetivo demonstrar um sistema básico de gerenciamento de
 ## Funcionalidades
 
 1. Cadastrar Animal;
-2. Cadastrar Produto";
-3. Agendar Serviço";
+2. Cadastrar Produto;
+3. Agendar Serviço;
 4. Listar cadastros de animais e serviços Agendados;
 5. Registrar Venda de Produto;
 6. Listar Estoque dos Produtos;
@@ -19,7 +19,7 @@ Este projeto tem como objetivo demonstrar um sistema básico de gerenciamento de
 ## Requisitos
 
 - Java 17
-- IDE Eclipse
+- IDE Eclipse ou outra IDE que seja compativel para compilar o sistema.
 
 ## Observação
 
