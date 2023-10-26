@@ -3,15 +3,22 @@ package petshop.estudo.de.caso;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.core.Logger;
+
 public class Main {
     
-
+	private static final Logger logger = (Logger) LogManager.getLogger(Main.class);
 	public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Produto> produtos = new ArrayList<>();
         ArrayList<Agenda> agendamentos = new ArrayList<>();
         ArrayList<Venda> vendas = new ArrayList<>();
-
+        
+        logger.info("SUCESS");
+        logger.error("erro");
+        
+        
         while (true) {
         	System.out.println("#####-SISTEMA PETSHOP-#####");
             System.out.println("###########-MENU-##########");
@@ -32,6 +39,7 @@ public class Main {
                 	System.out.println("Escolha o tipo de animal (1 - Cachorro, 2 - Gato) ");
                     int escolhaTipoAnimal = scanner.nextInt();
                     scanner.nextLine();
+                    
 
                     Animal animal = criarAnimal(escolhaTipoAnimal);
                     agendamentos.add(new Agenda(animal, null, "", ""));
